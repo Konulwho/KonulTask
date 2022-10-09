@@ -1,2 +1,2 @@
-# KonulFigma
-Web 9 Task 15
+# KonulTask
+Web 9 Task 6
